@@ -4,15 +4,15 @@
     "description": "Pridecraft Studios' LGBTQ+ themed Resource Pack for Minecraft: Bedrock Edition",
     "name": "PridePack: Bedrock Edition",
     "uuid": "52483fb7-255a-49be-a615-a005c10acaa9",
-    "version": [2, 0, 0],
+    "version": [6, 0, 0],
     "min_engine_version": [1, 20, 0]
   },
   "modules": [
     {
-      "description": "PridePack: Bedrock Edition",
+      "description": "PridePack: Bedrock Edition | Joy Update",
       "type": "resources",
       "uuid": "70e9733e-00da-43e0-80bd-9b416913e2c9",
-      "version": [2, 0, 0]
+      "version": [6, 0, 0]
     }
   ]
 }
