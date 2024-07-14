@@ -10,6 +10,7 @@ We're [Pridecraft Studios](https://pridecraft.gay): A collective of developers m
 We're working on [Pridepack](https://git.pridecraft.gay/PridePack) and other variants of it.
 ## Donate
 Support us by donating at
+
 [![patreon](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/donate/patreon-plural_64h.png?raw=true)](https://donate.pridecraft.gay)
 ## How can I test new stuff out?
 You can join our [Discord](https://discord.pridecraft.gay) and get early features sneak-peaks, or check out the [GitHub Releases](https://git.pridecraft.gay/Pridepack-BE/releases)
