@@ -45,3 +45,8 @@ tmp/
 *.mcaddon
 *.mcworld
 *.mcstructure
+
+# Pridepack Bedrock specific files
+
+*.py
+/textures/items/logs
