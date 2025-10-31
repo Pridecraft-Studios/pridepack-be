@@ -25,6 +25,11 @@
                     "volume" : 0.30
                 },
                 {
+                    "name"   : "sounds/game/opaque_window",
+                    "stream" : true,
+                    "volume" : 0.30
+                },
+                {
                     "name"   : "sounds/game/regina",
                     "stream" : true,
                     "volume" : 0.30
