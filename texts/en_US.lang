@@ -1,0 +1,113 @@
+## Contains all relevant translation strings for Pridepack
+
+## Beds!
+
+item.bed.black.name=Non-Binary Bed
+item.bed.red.name=Gay Bed
+item.bed.green.name=Intersex Bed
+item.bed.brown.name=Agender Bed
+item.bed.blue.name=Bigender Bed
+item.bed.purple.name=Bisexual Bed
+item.bed.cyan.name=Gay Men Bed
+item.bed.silver.name=Asexual Bed
+item.bed.gray.name=Aromantic Bed
+item.bed.pink.name=Aplatonic Bed
+item.bed.lime.name=Gender Fluid Bed
+item.bed.yellow.name=Pansexual Bed
+item.bed.lightBlue.name=Trans Bed
+item.bed.magenta.name=Aroace Bed
+item.bed.orange.name=Lesbian Bed
+
+## Prundles! (Bundles)
+
+item.bundle=Bundle
+item.black_bundle=Non-Binary Bundle
+item.white_bundle=Progress Bundle
+item.red_bundle=Gay Bundle
+item.orange_bundle=Lesbian Bundle
+item.yellow_bundle=Pansexual Bundle
+item.green_bundle=Intersex Bundle
+item.lime_bundle=Gender Fluid Bundle
+item.brown_bundle=Agender Bundle
+item.light_gray_bundle=Asexual Bundle
+item.light_blue_bundle=Trans Bundle
+item.blue_bundle=Bigender Bundle
+item.gray_bundle=Aromantic Bundle
+item.pink_bundle=Aplatonic Bundle
+item.magenta_bundle=Aroace Bundle
+item.purple_bundle=Bisexual Bundle
+item.cyan_bundle=Gay Men Bundle
+
+## Prandles! (Candles)
+### Block
+
+tile.candle.name=Candle
+tile.white_candle.name=Progress Candle
+tile.orange_candle.name=Lesbian Candle
+tile.magenta_candle.name=Aroace Candle
+tile.light_blue_candle.name=Trans Candle
+tile.yellow_candle.name=Pansexual Candle
+tile.lime_candle.name=Gender Fluid Candle
+tile.pink_candle.name=Aplatonic Candle
+tile.gray_candle.name=Aromantic Candle
+tile.light_gray_candle.name=Asexual Candle
+tile.cyan_candle.name=Gay Men Candle
+tile.purple_candle.name=Bisexual Candle
+tile.blue_candle.name=Bigender Candle
+tile.brown_candle.name=Agender Candle
+tile.green_candle.name=Intersex Candle
+tile.red_candle.name=Gay Candle
+tile.black_candle.name=Non-Binary Candle
+
+### Cake
+
+tile.candle_cake.name=Cake with Candle
+tile.white_candle_cake.name=Cake with Progress Candle
+tile.orange_candle_cake.name=Cake with Lesbian Candle
+tile.magenta_candle_cake.name=Cake with Aroace Candle
+tile.light_blue_candle_cake.name=Cake with Trans Candle
+tile.yellow_candle_cake.name=Cake with Pansexual Candle
+tile.lime_candle_cake.name=Cake with Gender Fluid Candle
+tile.pink_candle_cake.name=Cake with Aplatonic Candle
+tile.gray_candle_cake.name=Cake with Aromantic Candle
+tile.light_gray_candle_cake.name=Cake with Asexual Candle
+tile.cyan_candle_cake.name=Cake with Gay Men Candle
+tile.purple_candle_cake.name=Cake with Bisexual Candle
+tile.blue_candle_cake.name=Cake with Bigender Candle
+tile.brown_candle_cake.name=Cake with Agender Candle
+tile.green_candle_cake.name=Cake with Intersex Candle
+tile.red_candle_cake.name=Cake with Gay Candle
+tile.black_candle_cake.name=Cake with Non-Binary Candle
+
+## Harnesses!
+
+itemGroup.name.harnesses=Harnesses
+item.black_harness.name=Non-Binary Harness
+item.blue_harness.name=Bigender Harness
+item.brown_harness.name=Agender Harness
+item.cyan_harness.name=Gay Men Harness
+item.gray_harness.name=Aromantic Harness
+item.green_harness.name=Intersex Harness
+item.light_blue_harness.name=Trans Harness
+item.light_gray_harness.name=Asexual Harness
+item.lime_harness.name=Gender Fluid Harness
+item.magenta_harness.name=Aroace Harness
+item.orange_harness.name=Lesbian Harness
+item.pink_harness.name=Aplatonic Harness
+item.purple_harness.name=Bisexual Harness
+item.red_harness.name=Gay Harness
+item.white_harness.name=Progress Harness
+item.yellow_harness.name=Pansexual Harness
+
+## Entities.
+### Bee
+
+entity.bee.name=Bii
+item.spawn_egg.entity.bee.name=Bii Spawn Egg
+
+tile.beehive.name=Biihive
+tile.bee_nest.name=Bii Nest
+
+### Paintings
+
+#### Bedrock doesn't have painting names???
