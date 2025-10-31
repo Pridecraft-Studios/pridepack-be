@@ -5,7 +5,7 @@
             "load_on_low_memory" : true,
             "sounds" : [
                 {
-                    "name"   : "sounds/music/menu/joy",
+                    "name"   : "sounds/menu/joy",
                     "stream" : true,
                     "volume" : 0.30
                 }
@@ -15,17 +15,17 @@
             "load_on_low_memory" : true,
             "sounds" : [
                 {
-                    "name"   : "sounds/music/game/douglas",
+                    "name"   : "sounds/game/douglas",
                     "stream" : true,
                     "volume" : 0.30
                 },
                 {
-                    "name"   : "sounds/music/game/melancolie",
+                    "name"   : "sounds/game/melancolie",
                     "stream" : true,
                     "volume" : 0.30
                 },
                 {
-                    "name"   : "sounds/music/game/regina",
+                    "name"   : "sounds/game/regina",
                     "stream" : true,
                     "volume" : 0.30
                 }
@@ -35,7 +35,7 @@
             "load_on_low_memory" : true,
             "sounds" : [
                 {
-                    "name"   : "sounds/music/game/creative/reminiscence",
+                    "name"   : "sounds/game/creative/reminiscence",
                     "stream" : true,
                     "volume" : 0.30
                 }
