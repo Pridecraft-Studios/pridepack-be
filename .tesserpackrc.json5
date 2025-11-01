@@ -1,0 +1,31 @@
+{
+  "compiler": {
+    "json": {
+      "strict": false
+    },
+    "png": {
+      "compressLevel": 9,
+      "quality": 100,
+      "effort": 10
+    },
+    "jpg": {
+      "quality": 85
+    },
+    "cache": true
+  },
+  "ignoreGlob": [
+    "node_modules/*",
+    "node_modules/**/*",
+    ".git/*",
+    ".git/**/*",
+    ".vscode/*",
+    ".vscode/**/*",
+    ".github/*",
+    ".github/**/*",
+    ".AppleDB/**/*",
+    ".AppleDestktop/**/*",
+    "._*",
+    ".DS_Store/**/*",
+    ".AppleDouble/**/*"
+  ]
+}
