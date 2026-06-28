@@ -19,13 +19,15 @@ You can support the developers of Pridecraft Studios by donating on Patreon
 
 ![Various Pridepack features sitting on a colourful surface.](https://cdn.modrinth.com/data/yPbBrzEX/images/bd6216e3669d2290f943be8ded4ad478a6ec2ce6.png)
 
-![Many Pridepack paintings in a cherry grove biome.](https://cdn.modrinth.com/data/bfqQRI9l/images/6ffe3db52330b1dabc1cf3c2fa0b72714daa283b.webp)
+![The chiseled bookshelves and candle textures from Pridepack](https://cdn.modrinth.com/data/yPbBrzEX/images/f9a25af9d1259bac1dd6bccbb63f356e77335a70.png)
 
-![An aquarium full of axolotls with PridePack textures](https://cdn.modrinth.com/data/bfqQRI9l/images/3fb7c5e94c840dbf0c9c070582a6904ac3bc1503.png)
+![An aquarium full of axolotls with Pridepack textures](https://cdn.modrinth.com/data/yPbBrzEX/images/6eac8b9a3dea4c106649a05e44bdfa52da77d018.png)
 
-![A gallery displaying many of Pridepack's paintings](https://cdn.modrinth.com/data/bfqQRI9l/images/34d1257d4988e30d0d9e0099f3667ea5456ef1e3.png)
+![A gallery displaying many of Pridepack's paintings](https://cdn.modrinth.com/data/yPbBrzEX/images/b6329b27606003d3121749f6131b3d03a4bfacf5.png)
 
-![A bedroom with some of Pridepack's features.](https://cdn.modrinth.com/data/bfqQRI9l/images/d49881fa61bf099780dfc0b09627fd6a1fc91067.png)
+![Two foxes on a red carpet.](https://cdn.modrinth.com/data/yPbBrzEX/images/efb379d70a7a9590a6583716607a5561e3d1fc40.png)
+
+![A bedroom with some of Pridepack's features.](https://cdn.modrinth.com/data/yPbBrzEX/images/9fabedea3df65957710435dd23640e8959a611e7.png)
 
 ## Who
 
@@ -35,21 +37,25 @@ We target both Java and Bedrock editions, hoping to create memorable experiences
 
 ## Other Downloads
 
-[![Download on CurseForge](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/texture-packs/pridepack-be) [![See the source on GitHub](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy-minimal/available/github_vector.svg)](https://git.pridecraft.gay/pridepack-be)
+[![Download on CurseForge](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/texture-packs/pridepack-be)  [![See the source on GitHub](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy-minimal/available/github_vector.svg)](https://git.pridecraft.gay/pridepack-be)
 
 ## Socials
 
-[![Join our Discord](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/discord-plural_vector.svg)](https://discord.pridecraft.gay)
-[![Chat with us on Mastodon](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/mastodon-plural_vector.svg)](https://tech.lgbt/@pridecraft)
-[![Watch us on Youtube](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/youtube-plural_vector.svg)](https://youtube.com/@pridecraftstudios)
-[![Chat with us on Bluesky](https://badger-api-staging.worldwidepixel.ca/compact?gradientStart=00A5E4&gradientEnd=0076B1&lineOne=Chat%20with%20us%20on&lineTwo=Bluesky&colourOne=FFFFFF&colourTwo=FFFFFF&iconUrl=https://raw.githubusercontent.com/OzzyCzech/bluesky-icon/main/dist/bluesky-icon.white.png)](https://bsky.app/profile/pridecraft.gay)
-[![Check out our Instagram](https://badger-api-staging.worldwidepixel.ca/compact?gradientStart=BA5353&gradientEnd=61003D&lineOne=Check%20out%20our&lineTwo=Instagram&colourOne=FFFFFF&colourTwo=FFF&iconUrl=https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png)](https://instagram.com/pridecraftstudios)
+[![Join our Discord](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/discord-plural_vector.svg)](https://discord.pridecraft.gay) [![Chat with us on Bluesky](https://badger-api-staging.worldwidepixel.ca/compact?gradientStart=00A5E4&gradientEnd=0076B1&lineOne=Chat%20with%20us%20on&lineTwo=Bluesky&colourOne=FFFFFF&colourTwo=FFFFFF&iconUrl=https://raw.githubusercontent.com/OzzyCzech/bluesky-icon/main/dist/bluesky-icon.white.png)](https://bsky.app/profile/pridecraft.gay)  [![Watch us on Youtube](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/youtube-plural_vector.svg)](https://youtube.com/@pridecraftstudios) [![Chat with us on Mastodon](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/mastodon-plural_vector.svg)](https://tech.lgbt/@pridecraft)
 
 # Licenses
 
-<p><a property="dct:title" rel="cc:attributionURL" href="https://pridecraft.gay/pridepack">Pridepack</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://pridecraft.gay">Pridecraft Studios</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+<details>
+  <summary>Assets license [CC BY-SA 4.0]</summary>
 
-The music for Joy is licensed from [lynndova](https://worldwidepixel.ca/), under different terms and are **not** distributed under CC BY-SA 4.0. [See here for licensing terms.](https://git.pridecraft.gay/pridepack/blob/main/LICENSE-MUSIC)
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://pridecraft.gay/pridepack">Pridepack</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://pridecraft.gay">Pridecraft Studios</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+
+</details>
+
+<details>
+  <summary>Music license [ARR + Permissions]</summary>
+
+The music for Joy is licensed from [lynndova](https://lynndova.com/), under different terms and are **not** distributed under CC BY-SA 4.0. [See here for licensing terms.](https://git.pridecraft.gay/pridepack/blob/main/LICENSE-MUSIC)
 
 In short:
 - You must provide credit to lynndova
@@ -57,4 +63,24 @@ In short:
 - You may use this soundtrack under the fair use doctrine including but not limited to the following:
   - Using this soundtrack in videos or streams
 
-If you are unsure if you may use the soundtracks or wish to license the soundtracks for your own use, contact lynndova on Discord via [their public email](mailto:hello@worldwidepixel.ca).
+If you are unsure if you may use the soundtracks or wish to license the soundtracks for your own use, contact lynndova at https://lynndova.com/contact/.
+
+</details>
+
+<details>
+  <summary>Branding License [ARR + Permissions]</summary>
+
+The branding for [Pridecraft Studios](https://pridecraft.gay) is licensed differently from most pack content.
+
+You are generally allowed to use Pridecraft Studios branding, under a few conditions. In short:
+- You must provide attribution to Pridecraft Studios
+- You may not republish these assets verbatim
+- You may not imply endorsement or partnership 
+- You may use these assets under the fair use doctrine including but not limited to the following:
+  - Pridecraft Studios project icon usage in an informational context to identify Pridecraft Studios projects
+
+These assets are not freely useable. Please contact a team member on the [Pridecraft Studios discord](https://discord.pridecraft.gay).
+
+© 2022 - 2026 Pridecraft Studios, All Rights Reserved.
+
+</details>
