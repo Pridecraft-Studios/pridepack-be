@@ -1,18 +1,18 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Pridecraft Studios' LGBTQ+ themed Resource Pack for Minecraft: Bedrock Edition.\n§cPrid§6epac§ek: Be§2droc§9k Edi§5tion §r 10.0 | The Queer Age!",
-    "name": "§cPrid§6epac§ek: Be§2droc§9k Edi§5tion§r",
+    "description": "Pridecraft Studios' LGBTQ+ themed Resource Pack for Minecraft: Bedrock Edition.\n§cPrid§6epac§ek: Be§2droc§9k Edi§5tion §r 13.0 | Queer Cubed!",
+    "name": "Pridepack: Bedrock Edition (13.0)",
     "uuid": "52483fb7-255a-49be-a615-a005c10acaa9",
-    "version": [10, 0, 0],
+    "version": [13, 0, 0],
     "min_engine_version": [1, 16, 0]
   },
   "modules": [
     {
-      "description": "§cPrid§6epac§ek: Be§2droc§9k Edi§5tion §r| The Queer Age!",
+      "description": "§cPrid§6epac§ek: Be§2droc§9k Edi§5tion §r 13.0 | Queer Cubed!",
       "type": "resources",
       "uuid": "70e9733e-00da-43e0-80bd-9b416913e2c9",
-      "version": [10, 0, 0]
+      "version": [13, 0, 0]
     }
   ],
   "subpacks": [
@@ -25,11 +25,6 @@
       "folder_name": "2k-panorama",
       "name": "2048x Panorama",
       "memory_tier": 1
-    },
-    {
-      "folder_name": "potato-panorama",
-      "name": "Potato Panorama (§c§lVERY LOW RESOLUTION§r)",
-      "memory_tier": 0
     }
   ]
 }
